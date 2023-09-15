@@ -1,3 +1,4 @@
+# my_profile
 
 # Hello, my name is Vladimir!
 
@@ -50,6 +51,7 @@ Now I am confident that programming is my calling, and I am ready to continue my
   <img src="./assets/icons/React-Dark.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp;
   <img src="./assets/icons/Sass.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="./assets/icons/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="./assets/icons/MySQL-Light.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -87,14 +89,6 @@ Now I am confident that programming is my calling, and I am ready to continue my
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Maroderik1/badges/large)
-
-### My Achievements on W3Schools
-
-- HTML: HTML Basics Certificate
-- CSS: CSS Fundamentals Certificate
-- JavaScript: JavaScript Essentials Certificate
-- Django: Django Web Development Certificate
-
 
 ### ⚙️ GitHub Statistics:
 
