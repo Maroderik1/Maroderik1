@@ -88,6 +88,14 @@ Now I am confident that programming is my calling, and I am ready to continue my
 
 ![codewars](https://www.codewars.com/users/Maroderik1/badges/large)
 
+### My Achievements on W3Schools
+
+- HTML: HTML Basics Certificate
+- CSS: CSS Fundamentals Certificate
+- JavaScript: JavaScript Essentials Certificate
+- Django: Django Web Development Certificate
+
+
 ### ⚙️ GitHub Statistics:
 
 <table>
