@@ -1,4 +1,3 @@
-# my_profile
 
 # Hello, my name is Vladimir!
 
